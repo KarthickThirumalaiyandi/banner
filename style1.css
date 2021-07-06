@@ -172,3 +172,16 @@
     font-weight: lighter;
     font-size:60%;
 }
+.p29{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:100%;
+    left:110%;
+    color: white;
+    font-weight: bold; 
+    padding-right: 5%;
+    padding-left: 5%;  
+    padding-bottom: 5%;
+}
+.p30{
+    block-size: initial;
+}
